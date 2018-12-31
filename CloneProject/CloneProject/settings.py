@@ -25,7 +25,7 @@ SECRET_KEY = 'kecpc-_=qx%d3_&f#rmi8z9@+w*g1w**4zv*lt1tci^092_gif'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
